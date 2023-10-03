@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Parker, a Software Developer!
+# I'm Parker, a Software Developer.
 
 ## About Me
 I specialize in HTML, CSS, JavaScript, and have a passion for creating user-centered web applications. I believe in clean, efficient code and collaboration.
