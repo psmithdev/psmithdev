@@ -1,4 +1,4 @@
-# Hi! I'm Parker, a Software Developer!
+# I'm Parker, a Software Engineer!
 
 ## About Me
 I specialize in HTML, CSS, JavaScript, and have a passion for creating user-centered web applications. I believe in clean, efficient code and collaboration.
@@ -16,4 +16,4 @@ I specialize in HTML, CSS, JavaScript, and have a passion for creating user-cent
 - LinkedIn: https://www.linkedin.com/in/parkersmith1/
 - Email: **resume@psmith.dev**
 
-Feel free to explore my repositories and reach out with any questions or collaboration ideas. Happy coding!
+Feel free to explore my repositories and reach out with any questions or ideas. Happy coding!
