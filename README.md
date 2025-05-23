@@ -1,7 +1,7 @@
 # I'm Parker, a Software Engineer!
 
 ## About Me
-I specialize in HTML, CSS, JavaScript, and have a passion for creating user-centered web applications. I believe in clean, efficient code and collaboration.
+I specialize in HTML, CSS, JavaScript, and have a passion for creating user-centered web applications!
 
 ## Technologies & Skills
 - **Languages**: JavaScript, HTML, CSS
